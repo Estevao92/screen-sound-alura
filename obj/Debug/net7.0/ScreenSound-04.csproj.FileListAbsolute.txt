@@ -1,0 +1,14 @@
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.exe
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.deps.json
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.runtimeconfig.json
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.dll
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\bin\Debug\net7.0\ScreenSound-04.pdb
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.AssemblyInfo.cs
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.dll
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\refint\ScreenSound-04.dll
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.pdb
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ScreenSound-04.genruntimeconfig.cache
+C:\Users\Ateliê Malusyl\source\repos\ScreenSound-04\ScreenSound-04\obj\Debug\net7.0\ref\ScreenSound-04.dll
